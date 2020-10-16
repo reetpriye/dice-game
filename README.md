@@ -7,7 +7,7 @@ DiceGame is a basic vanilla JavaScript project.
 Access the site from the URL below.
 
 ```bash
-https://reetpriye.github.io/dicegame
+https://random-dice.netlify.app/
 ```
 
 ## Usage
